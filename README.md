@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Interact with a smart contract deployed on Avalanche Testnet
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
